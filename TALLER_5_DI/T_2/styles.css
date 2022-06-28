@@ -1,0 +1,54 @@
+
+.header,
+.parrafo{
+    background-color:teal;
+    color: white;
+    text-align: center;
+}
+
+.titulo_titulo2,
+.titulo_titulo3,
+.titulo_titulo4{
+    background-color: orange;
+    text-align: right;
+    color: black;
+    font-size: 30px;
+}
+
+section .sobre.nosotros{
+    background-color: yellow;
+    
+}
+
+aside .titulo_titulo3{
+    background-color: violet;
+    color: white;
+    text-align: left;
+    font-size: 25px;
+}
+
+div .titulo_titulo4{
+    background-color: white;
+    text-align: left;
+    font-size: 15px;
+    
+}
+
+.parrafo_titulo2{
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: line-through;
+}
+
+.Hola {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+h6{
+    text-align: left;
+}

@@ -1,0 +1,48 @@
+body{
+    background-color: #ddbcdb;
+    text-align: center;
+    font-size: 25px;
+}
+
+.header{
+    background-color: black;
+    color: yellow;
+    text-align: left;
+    text-decoration: underline;
+    font-size: 30px;
+
+}
+
+.parrafo{
+    background-color: antiquewhite;
+}
+
+.sobre-nosotros{
+    background-color: teal;
+    color: white;
+    font-size: 25px;
+}
+
+.titulo_titulo3{
+    background-color: teal;
+    color: white;
+}
+
+
+.titulo_titulo4{
+    background-color: teal;
+    color: white;
+}
+
+#parrafoNum1{
+    background-color: coral;
+    color: blue;
+    text-align: right;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 25px;
+    color: black;
+}
+
